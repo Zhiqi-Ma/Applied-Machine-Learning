@@ -1,6 +1,15 @@
-# Applied-Machine-Learning
+# Applied Machine Learning
 
-# COMSW 4995 AML Porject
+This is a team-based final project for the course COMSW 4995 Applied Machine Learning during Fall 2024 in Columbia University.
+
+In educational settings, students often harbor certain misconceptions that lead them to choose incorrect answers and hinder the learning process. Identifying these underlying misconceptions is crucial for teachers, as it allows for more targeted instruction and intervention, ultimately improving educational outcomes. To this end, Diagnostic Questions
+have been introduced as an effective tool. A Diagnostic Question is a multiple-choice question with four options: one correct answer and three distractors (incorrect answers) - each specifically crafted to capture a specific misconception.
+
+However, manually tagging distractors with appropriate misconceptions is both time-consuming and prone to inconsistency among different human annotators. This inconsistency can undermine the accuracy and utility of the diagnostic process.
+
+In this project, we propose to design an automatic distractor labeling system leveraging the reasoning ability of Large Language Models (LLMs) to improve the understanding and management of misconceptions, enhancing the educational experience for teachers and students.
+
+Final report file lists more details about data manipulation, exploration, as well as model structure and techniques used, feel free to take a look.
 
 ## File List
 
